@@ -143,4 +143,4 @@ If telfhash was installed via the `python setup.py install` command, the `telfha
 
 * [Similarity brings your threat hunting to the next level](https://www.brighttalk.com/webcast/18282/452440) - VirusTotal / Trend Micro / Trinity Cyber - November 25, 2020
 * [VirusTotal Now Supports Trend Micro ELF Hash](https://www.trendmicro.com/en_us/research/20/j/virustotal-now-supports-trend-micro-elf-hash.html) - Trend Micro Research - October 13, 2020
-* [Grouping Linux IoT Malware Samples With Trend Micro ELF Hash aka telfash](https://blog.trendmicro.com/trendlabs-security-intelligence/) - Trend Micro Blog -  April 20, 2020.
+* [Grouping Linux IoT Malware Samples With Trend Micro ELF Hash aka telfash](https://www.trendmicro.com/en_us/research/20/d/grouping-linux-iot-malware-samples-with-trend-micro-elf-hash.html) - Trend Micro Blog -  April 20, 2020.
